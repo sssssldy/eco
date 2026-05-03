@@ -48,7 +48,7 @@ site:
   options:
     logo: logo.png
     logo_dark: logo.png
-    favicon: fav.ico
+    favicon: logo.png
     folders: true
     style: custom.css
     # analytics_google: G-XXX
