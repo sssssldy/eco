@@ -1,8 +1,8 @@
 version: 1
 project:
-  title: Website Title
-  # authors:
-  #   - name: Author Name
+  title: Hsu Haothsing
+  # authors: Hsu Haothsing
+  #   - name: Hsu Haothsing
   copyright: '2026'
   exclude:
     - _build
@@ -16,7 +16,7 @@ project:
     - CONDUCT.md
     - CONTRIBUTING.md
     - README.md
-  github: opengeos/myst-website-template
+  github: sssssldy/eco
   thebe:
     binder:
       repo: opengeos/myst-website-template
